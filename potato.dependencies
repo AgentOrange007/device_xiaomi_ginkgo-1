@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "LeddaZ/kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo",
+    "branch": "perf",
+    "remote": "github"
+  },
+  {
+    "repository": "LeddaZ/vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo",
+    "branch": "10.0",
+    "remote": "github"
+  },
+  {
+    "repository": "LeddaZ/vendor_MiuiCamera",
+    "target_path": "vendor/MiuiCamera",
+    "branch": "samsung",
+    "remote": "github"
+  },
+  {
+    "repository": "LeddaZ/proton-clang",
+    "target_path": "vendor/xiaomi/firmware",
+    "branch": "master",
+    "remote": "github"
+  },
+  {
+    "repository": "LeddaZ/hardware_qcom-caf_sm8150_display",
+    "target_path": "hardware/qcom/display-caf/sm8150",
+    "branch": "ten",
+    "remote": "github"
+  }
+]
